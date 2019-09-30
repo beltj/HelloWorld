@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Helloworld {
     public static void main(String[] args){
-        System.out.println("halo");
+        System.out.println("ghalo");
 
 
         //dag 1
