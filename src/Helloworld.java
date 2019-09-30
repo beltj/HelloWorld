@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Helloworld {
     public static void main(String[] args){
 
-        System.out.println("halo mamami");
+        System.out.println("opletten is voor homos");
         Extra extra = new Extra();
 
 
