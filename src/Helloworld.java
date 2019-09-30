@@ -10,6 +10,7 @@ public class Helloworld {
 
         System.out.println("opletten is voor homos");
         Extra extra = new Extra();
+        System.out.println("gime gime");
 
 
         //dag 1
