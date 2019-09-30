@@ -10,6 +10,7 @@ public class Helloworld {
 
         System.out.println("je bent zelf laatste!");
         Extra extra = new Extra();
+        System.out.println("gime gime");
 
 
         //dag 1
