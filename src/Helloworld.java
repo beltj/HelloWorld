@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Helloworld {
     public static void main(String[] args){
 
-        System.out.println("opletten is voor homos");
+        System.out.println("je bent zelf laatste!");
         Extra extra = new Extra();
         System.out.println("gime gime");
 
@@ -44,7 +44,7 @@ public class Helloworld {
         String zin = Keyboard.next();
         for (int i = 0; i < zin.length(); i++) {
             for (int j = 0; j < leter.length(); j++) {
-
+                System.out.println("Hallo!");
                 if (zin.toLowerCase().charAt(i) == leter.charAt(j))
                     count++;
             }
